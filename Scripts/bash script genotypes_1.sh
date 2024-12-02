@@ -1,3 +1,4 @@
+#!/bin/bash
 curl -O ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/releases/20110521/ALL.chr22.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf.gz.tbi        \
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\
                                  Dload  Upload   Total   Spent    Left  Speed\
