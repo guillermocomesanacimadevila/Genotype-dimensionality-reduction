@@ -154,17 +154,3 @@ vcf_to_matrix\
 (base) guillermocomesanacimadevila@MacBook-Pro-de-Guille Population Data set % pwd\
 /Users/guillermocomesanacimadevila/Desktop/GENES AND GEOGRAPHY/Population Data set\
 (base) guillermocomesanacimadevila@MacBook-Pro-de-Guille Population Data set % cd ~\
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille ~ % cd Desktop \
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille Desktop % cd \\(MSc\\)\\ BIOINFORMATICS \
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille (MSc) BIOINFORMATICS % cd MACHINE\\ LEARNING\\ RESEARCH\\ PROJECT\\ \\(1B\\) \
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille MACHINE LEARNING RESEARCH PROJECT (1B) % cd task2\
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille task2 % ls\
-depth.txt\
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille task2 % cd depth.txt \
-cd: not a directory: depth.txt\
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille task2 % pdw\
-zsh: command not found: pdw\
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille task2 % pwd\
-/Users/guillermocomesanacimadevila/Desktop/(MSc) BIOINFORMATICS/MACHINE LEARNING RESEARCH PROJECT (1B)/task2\
-(base) guillermocomesanacimadevila@MacBook-Pro-de-Guille task2 % \
-}
